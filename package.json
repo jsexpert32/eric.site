@@ -1,7 +1,7 @@
 {
   "name": "marketing-portal",
   "version": "0.1.0",
-  "homepage": "https://jsexpert32.github.io/eric-site/",
+  "homepage": "https://jsexpert32.github.io/eric.site/",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.1.0",
